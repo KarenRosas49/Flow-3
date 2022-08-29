@@ -38,6 +38,8 @@ Una vez completados los pasos anteriores se deberá ver abrir el dashboard, como
 
 ![Captura de pantalla](Captura_Flow3.png)
 
+![Captura de pantalla](Captura_bloques.png)
+
 ## Evidencias
 [Evidencia Flow 3](https://youtu.be/1KQllEilVR0)
 
